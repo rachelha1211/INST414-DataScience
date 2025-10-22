@@ -1,7 +1,11 @@
 INST414-Data-Science-Project
 ==============================
 
-Assignment
+Sprint 2: Progress
+- Completed EDA of cleaned version of the Global Health Statistics dataset.
+- Found no patterns/correlations that can support my problem.
+- Created some alternate ideas I could do.
+- Need to discuss with professor/instructional team about where to go from here.
 
 Project Organization
 ------------
