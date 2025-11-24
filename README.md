@@ -1,11 +1,11 @@
 INST414-Data-Science-Project
 ==============================
 
-Sprint 2: Progress
-- Completed EDA of cleaned version of the Global Health Statistics dataset.
-- Found no patterns/correlations that can support my problem.
-- Created some alternate ideas I could do.
-- Need to discuss with professor/instructional team about where to go from here.
+Sprint 3: Progress
+- Recompleted new dataset - Diabetes Health Indicators, raw and cleaned datasets found in data folder.
+- Model codes and additional methods used found in Models folder. Replace csv copypath with own version and run code in order.
+- Visualizations found in Figures folder
+- Get review over code - make usre everything runs correctly/troubleshoot
 
 Project Organization
 ------------
